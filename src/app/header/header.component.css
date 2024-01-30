@@ -1,0 +1,65 @@
+nav {
+    position: absolute;
+    min-height: 2%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: lightseagreen !important;
+    font-family: 'Poppins','sans-serif';
+    font-size: 20px;
+  }
+  
+  .navbar-brand{
+    margin-left: 1px;
+    
+  }
+  .nav-items {
+    right:100px;
+    margin-left: 10px;
+
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+    border-bottom: 1px solid transparent;
+  }
+  
+  .user {
+    border-bottom: none;
+  }
+  
+  .nav-item:hover {
+    background:lightcyan;
+  }
+  
+  .nav-link {
+    padding: 0.7em !important;
+  }
+  
+  a {
+    cursor: pointer;
+    color:black !important;
+    font-size: 20px;
+  }
+  
+  /* HEADER */
+  
+  .header {
+    padding: 40px 50px;
+    width: 100%;
+    border-bottom: 1px solid rgb(241, 241, 241);
+    
+  }
+  
+  
+  .brand-logo {
+    height: 70px;
+    width: 90px;
+    margin-left: -19px;
+    
+  }
+  .header{
+    font-size: 25px;
+    margin-left: -59px;
+  }
+  
